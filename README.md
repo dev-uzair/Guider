@@ -20,27 +20,10 @@ Guider is a MERN(Mongodb, Express.js, React.js, Node.js) stack based application
   - Local Guides can Sign in/up using G-mail or E-mail/Password.
 
 ## In action👀
-
-<h3 align="center">1. Homepage</h3>
+<br>
 <p align="center">
-   https://user-images.githubusercontent.com/47333917/161747284-636b1ea2-a14b-4fb8-b777-94f8f3a91407.mp4
+    [![Watch Demo](https://user-images.githubusercontent.com/47333917/161760955-df5fcc27-f99a-4836-aaea-2d7611d8d83e.png)](https://vimeo.com/696104380)
  </p> 
- <br>
- <h3 align="center">2. Get Information about Cities </h3>
- <p align="center">
-    https://player.vimeo.com/video/696098526?h=c38b26dfd4
-</p>
-<br><br>
-<h3 align="center">3. Payment </h3>
- <p align="center">
-    https://user-images.githubusercontent.com/47333917/161747627-a931d436-502c-49de-9059-654d35fce218.mp4
-</p>
-<br><br>
-<h3 align="center">4. Hire a Guide</h3>
- <p align="center">
-   https://user-images.githubusercontent.com/47333917/161747612-3ea06a9e-9dfd-446d-82df-9047dc9c09b3.mp4
- </p>
- <br><br>
  
 ## Some important things to note
    - If you're trying to make changes or to contribute in this project, please make sure you check the .env files in both client and server folders
