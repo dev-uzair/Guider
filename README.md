@@ -22,7 +22,7 @@ Guider is a MERN(Mongodb, Express.js, React.js, Node.js) stack based application
 ## In action👀
 <br>
 <p align="center">
-    [Watch Demo](https://vimeo.com/696104380)
+    [ Watch Demo ](https://vimeo.com/696104380)
  </p> 
  
 ## Some important things to note
